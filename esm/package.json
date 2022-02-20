@@ -1,0 +1,14 @@
+{
+  "name": "esm-template",
+  "version": "1.0.0",
+  "description": "Bot template in javascript (ES6)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node ."
+  },
+  "author": "Debert Jamie <debert123@protonmail.com>",
+  "dependencies": {
+    "@cosmos-xyz/cosmos": "^0.2.0"
+  }
+}
